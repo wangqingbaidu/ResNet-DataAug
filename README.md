@@ -1,1 +1,4 @@
 # torch
+imagenet.lua
+transform.lua
+这两个文件是Facebook开源的resnet中用来做augmentation的，原程序中只是做裁剪，并没有进行augmentation
